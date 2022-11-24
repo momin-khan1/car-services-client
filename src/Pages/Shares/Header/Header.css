@@ -1,0 +1,23 @@
+.menu a {
+    padding-right: 25px !important;
+    color: #fff !important;
+}
+
+.menu a:last-child {
+    padding-right: 0 !important;
+}
+
+.search>input {
+    width: 500px;
+    padding: 5px 0;
+    border-radius: 15px;
+    border: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(95, 95, 95);
+    color: #fff
+}
+
+.search>input:focus {
+    outline: none;
+}

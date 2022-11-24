@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Engine Repair",
+        "price": "100",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, unde.",
+        "img": "https://i.ibb.co/9sNRNmR/car-Repair1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Tyer Changes",
+        "price": "50",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, unde.",
+        "img": "https://i.ibb.co/f16v0WY/car-Repair2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Car Wash",
+        "price": "50",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, unde.",
+        "img": "https://i.ibb.co/1QWDj16/car-Repair3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Movel change",
+        "price": "30",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, unde.",
+        "img": "https://i.ibb.co/1df4YPD/car-Repair4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Bike servecing",
+        "price": "70",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, unde.",
+        "img": "https://i.ibb.co/mqSx55y/car-Repair5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Engine Repair",
+        "price": "150",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, unde.",
+        "img": "https://i.ibb.co/VYKNhx7/car-Repair6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Engine Repair",
+        "price": "70",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, unde.",
+        "img": "https://i.ibb.co/vq0btdR/car-Repair8.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Engine Repair",
+        "price": "170",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, unde.",
+        "img": "https://i.ibb.co/fGJFV9R/car-Repair7.jpg"
+    }
+]

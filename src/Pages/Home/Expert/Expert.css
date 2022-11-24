@@ -1,0 +1,20 @@
+.expert {
+    border-radius: 5px;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.card-body button {
+    border: none;
+    padding: 12px 0;
+    width: 100%;
+    font-size: 18px;
+    font-weight: 500;
+    background-color: #ca7d0b;
+    color: #fff;
+    border-radius: 5px;
+}
